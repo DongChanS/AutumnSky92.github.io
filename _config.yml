@@ -63,7 +63,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Cheolmin Lee
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -91,10 +91,11 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: false
-  facebook: false
-  google: false
-  linkedin: false
+#  twitter: false
+#  facebook: false
+  instagram: true
+#  google: false
+#  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
