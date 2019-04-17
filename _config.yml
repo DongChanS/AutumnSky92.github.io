@@ -73,7 +73,7 @@ social-network-links:
 #  rss: true
   email: "cmtwo24@gmail.com"
 #  facebook: daattali
-#  github: daattali
+  github: AutumnSky92
 #  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
@@ -93,7 +93,7 @@ social-network-links:
 share-links-active:
 #  twitter: false
 #  facebook: false
-#  instagram: true
+  instagram: false
 #  google: false
 #  linkedin: false
 
