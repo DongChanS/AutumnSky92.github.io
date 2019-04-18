@@ -1,7 +1,10 @@
-
-
-# 2019.02.13
-
+---
+layout: post
+title: 2019.02.13 Django
+subtitle: Django intro
+tags: django, framework, python
+comments: true
+---
 > 본 글은 2월 13일에 작성했고,  re-posting을 거치면서 편집했습니다. 
 
 
