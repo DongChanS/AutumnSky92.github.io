@@ -1,13 +1,13 @@
 ---
 layout: null
 ---
-
+@import url('https://fonts.googleapis.com/css?family=Gamja+Flower');
 @import url("pygment_highlights.css");
 
 /* --- General --- */
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Gamja Flower', cursive;
   font-size: 18px;
   color: #404040;
   position: relative;
