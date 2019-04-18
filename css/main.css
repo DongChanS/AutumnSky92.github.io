@@ -2,12 +2,12 @@
 layout: null
 ---
 @import url("pygment_highlights.css");
-@import url('https://fonts.googleapis.com/css?family=Gamja+Flower');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR');
 
 /* --- General --- */
 
 body {
-  font-family: 'Gamja Flower', cursive;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 18px;
   color: #404040;
   position: relative;
