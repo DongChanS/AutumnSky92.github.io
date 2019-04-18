@@ -155,9 +155,11 @@ urlpatterns = [
 - hard code 된 url들은 변경할 경우가 많음.
 
 ```html
+{% raw %}
 <a href="{% url 'new' %}">새 글 쓰기</a>
 <!-- variable routing : 넣고싶은 정보를 차례대로 입력 -->
 <a href="{% url 'detail' article.id %}">{{ article.title }}</a>
+{% endraw %}
 ```
 
 - views.py
