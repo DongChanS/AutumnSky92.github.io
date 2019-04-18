@@ -113,7 +113,9 @@ urlpatterns = [
 - form action : 경로의 앞 뒤로 '/' 를 잘 써주자
 
   ```html
+  {% raw %}
   <form action = "/articles/create/" method = "POST">
+  {% endraw %}
   ```
 
 - CSRF
@@ -122,9 +124,11 @@ urlpatterns = [
   - Django가 토큰을 발급 / 관리.
 
   ```html
+  {% raw %}
   <form action = "/articles/create/" method = "POST">
   	{% csrf_token %}
   </form>
+{% endraw %}
   ```
 
 - views.py
