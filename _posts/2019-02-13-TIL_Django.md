@@ -80,23 +80,21 @@ pyenv global 3.6.7
 
 ```
 ### 새로운 프로젝트 디렉토리 이름은 대문자로!
-$ mkdir NEWPROJECT
-$ cd NEWPROJECT
+mkdir NEWPROJECT
+cd NEWPROJECT
 
 
 ### 가상환경 생성
-$ pyenv virtualenv 3.6.7 <새로운 가상환경 이름>-venv 
+pyenv virtualenv 3.6.7 <새로운 가상환경 이름>-venv 
 
 ### 자동으로 가상환경이 로드 되도록 설정
-$ pyenv local newproject-venv
+pyenv local newproject-venv
 
 ### 장고 설치
-$ pip install django
+pip install django
 
-### 마지막에 점을 꼭 찍어서 경로를 분명히 해주자
-$ django-admin startproject <새로운 프로젝트 이름 :소문자로 하자..헷갈림> . #점#
-$ pip list
-$ tree .
+###  <새로운 프로젝트 이름 : 소문자> . 마지막에 점을 꼭 찍어서 경로를 분명히 해주자
+django-admin startproject newproject .
 ```
 
 
@@ -171,8 +169,8 @@ INSTALLED_APPS = [
 	# .
     # .
     # .
-    # 추가 : 끝나는 요소에 ,를 꼭 붙여야함
-    # Django에서는 이렇게 쓰자 (trailing comma)
+    # 끝나는 요소에 ,를 꼭 붙여야함
+    # trailing comma
     'pages',
 ]
 ```
@@ -181,20 +179,16 @@ INSTALLED_APPS = [
 
 ### views.py & urls.py
 
-- Flask와의 차이점
+#### Flask와의 차이점
+1) route > urls.py 에 views를 import 하고 경로와 이름을 알려줌
+2) request > 함수의 인자로 사용됨
+3) render > request를 함께 보내줌
 
-​	1) route > urls.py 에 views를 import 하고 경로와 이름을 알려줌
-
-​	2) request > 함수의 인자로
-
-​	3) render > 짧게, request를 함께
-
->Flask html > jinja
+> Flask html > jinja
 >
->Django html > 거의 비슷
+> Django html > 거의 비슷
 
 0. index
-
      ```python
      # in views.py
      def index(request):
@@ -239,15 +233,12 @@ INSTALLED_APPS = [
    
 ##### 환경변수
 
-   ```
-$ c9 ~/.bashrc
-
-$ source ~/.bashrc
-
+```
+c9 ~/.bashrc
+source ~/.bashrc
 ### 가상환경이 중복으로 생성 > 하나를 꺼주면 됨
-
-$ source deactivate
-   ```
+source deactivate
+```
 
    
 
