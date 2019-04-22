@@ -2,7 +2,7 @@
 layout: post
 title: Introduction to specialization
 subtitle: Introduces the specialization and the Google experts who will be teaching it.
-tags: django, python, ORM, CRUD
+tags: Google, Machine Learning  
 comments: true
 ---
 > Goal : Use machine learning to transform the way you do business
