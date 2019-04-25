@@ -23,7 +23,7 @@ Django는 Python 언어 기반의 웹 프레임워크로, 쉽게 생각하면 �
 * * *
 질문 : Django 말고도 많잖아?
 
-답변 : Python 기반의 프레임워크 중에서는...[할많하않](http://hotframeworks.com/)
+답변 : Python 기반의 프레임워크 중에서는...[할많하않](http://hotframeworks.com/languages/python)
 * * *
 
 
