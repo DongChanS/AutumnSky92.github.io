@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 2019.04.25 Django
-subtitle: Django Review
-tags: django, python, auth, user
+title: Instagram Clone Coding
+subtitle: Django Project
+tags: django, python
 comments: true
 version:
  - Django : 2.1.8
