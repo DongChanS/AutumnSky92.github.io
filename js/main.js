@@ -3,7 +3,7 @@
 var main = {
 
   bigImgEl : null,
-  numImgs : 'big_image',
+  numImgs : null,
 
   init : function() {
     // Shorten the navbar after scrolling a little bit down
