@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2019.04.25 Django
-subtitle: Django Review
+title: Instagram Clone Coding
+subtitle: Django Project
 tags: django, python, auth, user
 comments: true
 version:
