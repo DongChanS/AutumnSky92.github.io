@@ -23,7 +23,12 @@ description: "개발 일기"
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Learning:
+  Official Documents:
+    - Django: "https://www.djangoproject.com/"
+  Cooperation Tools:
+    - Slack: "https://slack.com/"
+    - Trello: "https://trello.com/"
+  Machine Learning:
     - Coursera: "https://ko.coursera.org/"
     - Qwiklabs: "https://www.qwiklabs.com/"
   SSAFY: "https://www.ssafy.com/"
