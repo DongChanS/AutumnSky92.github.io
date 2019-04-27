@@ -19,13 +19,14 @@ subtitle: Wanna be a Polyglot Programmer!
 
 #### 2013.05 - 2015.05
 - Military duty
-    - Sergeant Air Force, GUNSAN
+    - Sergeant Air Force, GUNSAN, KOREA
+    - Maintenance of Avionics Equipment
 
 ---
 
 #### 2012.07 - 2012-09
 - Intern(part-time job)
-    - IT Solution TEAM, SAMSUNG ELECTRONIC, SUWON SAMSUNG DIGTAL CITY, Belong to Microsoft(KOREA)
+    - IT Solution TEAM, SAMSUNG ELECTRONIC, SUWON SAMSUNG DIGTAL CITY, KOREA, Belong to Microsoft(KOREA)
 
 ---
 
