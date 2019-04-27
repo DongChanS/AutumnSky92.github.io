@@ -23,8 +23,8 @@ description: "개발 일기"
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Official Documents:
-    - Django: "https://www.djangoproject.com/"
+  # Official Documents:
+  #   - Django: "https://www.djangoproject.com/"
   Cooperation Tools:
     - Slack: "https://slack.com/"
     - Trello: "https://trello.com/"
