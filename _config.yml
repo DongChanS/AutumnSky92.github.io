@@ -25,9 +25,9 @@ navbar-links:
   About Me: "aboutme"
   # Official Documents:
   #   - Django: "https://www.djangoproject.com/"
-  Cooperation Tools:
-    - Slack: "https://slack.com/"
-    - Trello: "https://trello.com/"
+  # Cooperation Tools:
+  #   - Slack: "https://slack.com/"
+  #   - Trello: "https://trello.com/"
   Machine Learning:
     - Coursera: "https://ko.coursera.org/"
     - Qwiklabs: "https://www.qwiklabs.com/"
