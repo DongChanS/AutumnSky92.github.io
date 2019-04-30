@@ -28,10 +28,13 @@ navbar-links:
   # Cooperation Tools:
   #   - Slack: "https://slack.com/"
   #   - Trello: "https://trello.com/"
+  # Posts:
+  #   - Django: 
   Machine Learning:
     - Coursera: "https://ko.coursera.org/"
     - Qwiklabs: "https://www.qwiklabs.com/"
-  SSAFY: "https://www.ssafy.com/"
+  SSAFY 2기 모집중!: 
+    - SSAFY: "https://www.ssafy.com/"
   # Resources:
     # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     # - Learn markdown: "http://www.markdowntutorial.com/"
